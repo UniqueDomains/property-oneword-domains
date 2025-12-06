@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PROPERTY one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.property        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.property      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.property        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.property      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.property  | premium   | 50       | 1%     | 9      |           |         |         |
 | abaft.property      | premium   | 43       | 2%     | 5      |           |         |         |
 | abandoned.property  | premium   | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PROPERTY one word dom
 | abatic.property     | premium   | 54       | 2%     | 6      |           |         |         |
 | abaxial.property    | premium   | 54       | 2%     | 7      |           |         |         |
 | abbatial.property   | premium   | 50       | 1%     | 8      |           |         |         |
-| abc.property        | available | 102      | 41%    | 3      |           |         |         |
+| abc.property        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.property  | premium   | 50       | 1%     | 9      |           |         |         |
 | abdominal.property  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.property | premium   | 56       | 1%     | 10     |           |         |         |
