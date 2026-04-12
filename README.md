@@ -1,22 +1,22 @@
-# Available .PROPERTY One-Word Domains (5,621,942)
+# Available .PROPERTY One-Word Domains (9,727)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C727%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C942%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C727%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .property one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .property one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,727-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,942 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,727 rows · **Live catalog:** 5,621,942 domains
+**Public extract:** 9,727 rows · **Live catalog:** 9,727 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/property`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| alltime.property       | available | $161.98   | —             | 72             | 13     | 8      | namecheap       |
+| alltime.property       | available | $161.98   | —             | 72             | 12     | 8      | namecheap       |
 | space.property         | resell    | —         | —             | 80             | 99     | 5      | Porkbun LLC     |
 | secret.property        | premium   | —         | —             | 112            | 100    | 6      | —               |
-| orso.property          | available | $161.98   | —             | 62             | 11     | 5      | namecheap       |
+| cooldown.property      | available | $161.98   | —             | 70             | 10     | 9      | namecheap       |
 | apple.property         | resell    | —         | —             | 98             | 88     | 5      | eNom, Inc.      |
 | key.property           | premium   | —         | —             | 80             | 100    | 3      | —               |
-| cooldown.property      | available | $161.98   | —             | 70             | 10     | 9      | namecheap       |
+| orso.property          | available | $161.98   | —             | 62             | 10     | 5      | namecheap       |
 | discover.property      | resell    | —         | —             | 66             | 75     | 8      | NAMECHEAP       |
 | central.property       | premium   | —         | —             | 70             | 100    | 7      | —               |
-| allright.property      | available | $161.98   | —             | 68             | 10     | 9      | namecheap       |
+| infront.property       | available | $161.98   | —             | 60             | 10     | 8      | namecheap       |
 | best.property          | resell    | —         | —             | 82             | 53     | 4      | Spaceship, Inc. |
 | bad.property           | premium   | —         | —             | 142            | 99     | 3      | —               |
-| infront.property       | available | $161.98   | —             | 60             | 10     | 8      | namecheap       |
+| allout.property        | available | $161.98   | —             | 84             | 9      | 7      | namecheap       |
 | real.property          | resell    | —         | —             | 78             | 49     | 4      | 1API GmbH       |
 | clean.property         | premium   | —         | —             | 130            | 99     | 5      | —               |
-| allout.property        | available | $161.98   | —             | 84             | 9      | 7      | namecheap       |
+| greenbuilding.property | available | $161.98   | —             | 76             | 9      | 14     | namecheap       |
 | family.property        | resell    | —         | —             | 106            | 46     | 6      | Spaceship, Inc. |
 | gay.property           | premium   | —         | —             | 122            | 99     | 3      | —               |
-| greenbuilding.property | available | $161.98   | —             | 76             | 9      | 14     | namecheap       |
+| allright.property      | available | $161.98   | —             | 68             | 9      | 9      | namecheap       |
 | outdoor.property       | resell    | —         | —             | 98             | 32     | 7      | 1API GmbH       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,727-row public sample | 5,621,942 live domains                           |
+| 9,727-row public sample | 9,727 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
