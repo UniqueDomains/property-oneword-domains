@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .property one-word domains from Un
 
 **Public extract:** 9,727 rows · **Live catalog:** 9,727 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/property`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | orso.property          | available | $161.98   | —             | 62             | 10     | 5      | namecheap       |
 | discover.property      | resell    | —         | —             | 66             | 75     | 8      | NAMECHEAP       |
 | central.property       | premium   | —         | —             | 70             | 100    | 7      | —               |
-| infront.property       | available | $161.98   | —             | 60             | 10     | 8      | namecheap       |
-| best.property          | resell    | —         | —             | 82             | 53     | 4      | Spaceship, Inc. |
+| greenbuilding.property | available | $161.98   | —             | 76             | 9      | 14     | namecheap       |
+| best.property          | resell    | —         | —             | 82             | 52     | 4      | Spaceship, Inc. |
 | bad.property           | premium   | —         | —             | 142            | 99     | 3      | —               |
-| allout.property        | available | $161.98   | —             | 84             | 9      | 7      | namecheap       |
+| allright.property      | available | $161.98   | —             | 68             | 9      | 9      | namecheap       |
 | real.property          | resell    | —         | —             | 78             | 49     | 4      | 1API GmbH       |
 | clean.property         | premium   | —         | —             | 130            | 99     | 5      | —               |
-| greenbuilding.property | available | $161.98   | —             | 76             | 9      | 14     | namecheap       |
+| infront.property       | available | $161.98   | —             | 60             | 9      | 8      | namecheap       |
 | family.property        | resell    | —         | —             | 106            | 46     | 6      | Spaceship, Inc. |
 | gay.property           | premium   | —         | —             | 122            | 99     | 3      | —               |
-| allright.property      | available | $161.98   | —             | 68             | 9      | 9      | namecheap       |
+| allout.property        | available | $161.98   | —             | 84             | 8      | 7      | namecheap       |
 | outdoor.property       | resell    | —         | —             | 98             | 32     | 7      | 1API GmbH       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
