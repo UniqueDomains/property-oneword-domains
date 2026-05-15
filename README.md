@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .property one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $149.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/property`  
 **Best for:** founders, investors, studios
 
@@ -71,8 +71,8 @@ print(df.head())
 | motorsport.property  | available | $161.98   | —             | 74             | 23     | 10     | namecheap                |
 | makeit.property      | available | $161.98   | —             | 82             | 22     | 7      | namecheap                |
 | webshop.property     | available | $161.98   | —             | 76             | 22     | 8      | namecheap                |
-| WestEnd.property     | available | $161.98   | —             | 70             | 21     | 8      | namecheap                |
 | Tshirts.property     | available | $161.98   | —             | 70             | 20     | 8      | namecheap                |
+| WestEnd.property     | available | $161.98   | —             | 70             | 19     | 8      | namecheap                |
 | ebooks.property      | available | $161.98   | —             | 62             | 19     | 6      | namecheap                |
 | outofoffice.property | available | $161.98   | —             | 61             | 19     | 13     | namecheap                |
 | techsupport.property | available | $161.98   | —             | 76             | 18     | 12     | namecheap                |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
