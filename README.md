@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .property one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $149.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/property`  
 **Best for:** founders, investors, studios
 
@@ -64,13 +64,13 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| popup.property       | available | $161.98   | —             | 84             | 29     | 6      | namecheap                |
+| popup.property       | available | $161.98   | —             | 84             | 28     | 6      | namecheap                |
 | gamers.property      | resell    | —         | —             | 62             | 24     | 6      | 1API GmbH                |
 | rekt.property        | available | $161.98   | —             | 40             | 24     | 4      | namecheap                |
 | hospitals.property   | resell    | —         | —             | 64             | 10     | 9      | Tucows Registry Services |
 | motorsport.property  | available | $161.98   | —             | 74             | 23     | 10     | namecheap                |
-| makeit.property      | available | $161.98   | —             | 82             | 22     | 7      | namecheap                |
 | webshop.property     | available | $161.98   | —             | 76             | 22     | 8      | namecheap                |
+| makeit.property      | available | $161.98   | —             | 82             | 21     | 7      | namecheap                |
 | Tshirts.property     | available | $161.98   | —             | 70             | 20     | 8      | namecheap                |
 | WestEnd.property     | available | $161.98   | —             | 70             | 19     | 8      | namecheap                |
 | ebooks.property      | available | $161.98   | —             | 62             | 19     | 6      | namecheap                |
@@ -80,10 +80,10 @@ print(df.head())
 | jetlag.property      | available | $161.98   | —             | 72             | 17     | 7      | namecheap                |
 | bonvoyage.property   | available | $161.98   | —             | 88             | 16     | 10     | namecheap                |
 | gearup.property      | available | $161.98   | —             | 80             | 16     | 7      | namecheap                |
+| heavymetal.property  | available | $161.98   | —             | 70             | 16     | 11     | namecheap                |
 | gofast.property      | available | $161.98   | —             | 74             | 15     | 7      | namecheap                |
-| heavymetal.property  | available | $161.98   | —             | 70             | 15     | 11     | namecheap                |
-| makesense.property   | available | $161.98   | —             | 82             | 14     | 10     | namecheap                |
 | playon.property      | available | $161.98   | —             | 80             | 14     | 7      | namecheap                |
+| moveup.property      | available | $161.98   | —             | 79             | 14     | 7      | namecheap                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
