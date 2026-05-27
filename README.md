@@ -69,19 +69,19 @@ print(df.head())
 | rekt.property        | available | $161.98   | —             | 40             | 24     | 4      | namecheap                |
 | hospitals.property   | resell    | —         | —             | 64             | 10     | 9      | Tucows Registry Services |
 | motorsport.property  | available | $161.98   | —             | 74             | 23     | 10     | namecheap                |
-| webshop.property     | available | $161.98   | —             | 76             | 22     | 8      | namecheap                |
 | makeit.property      | available | $161.98   | —             | 82             | 21     | 7      | namecheap                |
+| webshop.property     | available | $161.98   | —             | 76             | 21     | 8      | namecheap                |
 | Tshirts.property     | available | $161.98   | —             | 70             | 20     | 8      | namecheap                |
 | WestEnd.property     | available | $161.98   | —             | 70             | 19     | 8      | namecheap                |
 | ebooks.property      | available | $161.98   | —             | 62             | 19     | 6      | namecheap                |
 | outofoffice.property | available | $161.98   | —             | 61             | 19     | 13     | namecheap                |
 | techsupport.property | available | $161.98   | —             | 76             | 18     | 12     | namecheap                |
+| jetlag.property      | available | $161.98   | —             | 72             | 18     | 7      | namecheap                |
 | videogames.property  | available | $161.98   | —             | 66             | 18     | 11     | namecheap                |
-| jetlag.property      | available | $161.98   | —             | 72             | 17     | 7      | namecheap                |
 | bonvoyage.property   | available | $161.98   | —             | 88             | 16     | 10     | namecheap                |
 | gearup.property      | available | $161.98   | —             | 80             | 16     | 7      | namecheap                |
+| gofast.property      | available | $161.98   | —             | 74             | 16     | 7      | namecheap                |
 | heavymetal.property  | available | $161.98   | —             | 70             | 16     | 11     | namecheap                |
-| gofast.property      | available | $161.98   | —             | 74             | 15     | 7      | namecheap                |
 | playon.property      | available | $161.98   | —             | 80             | 14     | 7      | namecheap                |
 | moveup.property      | available | $161.98   | —             | 79             | 14     | 7      | namecheap                |
 
