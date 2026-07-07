@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .property one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,237 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $149.32 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $90.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/property`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/property`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PROPERTY one-word dom
 
 ### Files
 
-- `property.csv` — public CSV extract (1,000 rows)
-- `property.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `property.csv`, public CSV extract (1,000 rows)
+- `property.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| popup.property       | available | $161.98   | —             | 84             | 28     | 6      | namecheap                |
-| gamers.property      | resell    | —         | —             | 62             | 24     | 6      | 1API GmbH                |
-| rekt.property        | available | $161.98   | —             | 40             | 24     | 4      | namecheap                |
-| hospitals.property   | resell    | —         | —             | 64             | 10     | 9      | Tucows Registry Services |
-| motorsport.property  | available | $161.98   | —             | 74             | 23     | 10     | namecheap                |
-| makeit.property      | available | $161.98   | —             | 82             | 21     | 7      | namecheap                |
-| webshop.property     | available | $161.98   | —             | 76             | 21     | 8      | namecheap                |
-| Tshirts.property     | available | $161.98   | —             | 70             | 20     | 8      | namecheap                |
-| WestEnd.property     | available | $161.98   | —             | 70             | 19     | 8      | namecheap                |
-| ebooks.property      | available | $161.98   | —             | 62             | 19     | 6      | namecheap                |
-| outofoffice.property | available | $161.98   | —             | 61             | 19     | 13     | namecheap                |
-| techsupport.property | available | $161.98   | —             | 76             | 18     | 12     | namecheap                |
-| jetlag.property      | available | $161.98   | —             | 72             | 18     | 7      | namecheap                |
-| videogames.property  | available | $161.98   | —             | 66             | 18     | 11     | namecheap                |
-| bonvoyage.property   | available | $161.98   | —             | 88             | 16     | 10     | namecheap                |
-| gearup.property      | available | $161.98   | —             | 80             | 16     | 7      | namecheap                |
-| gofast.property      | available | $161.98   | —             | 74             | 16     | 7      | namecheap                |
-| heavymetal.property  | available | $161.98   | —             | 70             | 16     | 11     | namecheap                |
-| playon.property      | available | $161.98   | —             | 80             | 14     | 7      | namecheap                |
-| moveup.property      | available | $161.98   | —             | 79             | 14     | 7      | namecheap                |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| camo.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo    |
+| space.property   | resell    | —         | —             | high           | high   | 5      | Porkbun LLC |
+| orso.property    | available | $59.99    | $114.99       | medium         | low    | 5      | namesilo    |
+| asyet.property   | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo    |
+| ifnot.property   | available | $161.98   | —             | medium         | low    | 6      | namecheap   |
+| nuthin.property  | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo    |
+| tvset.property   | available | $161.98   | —             | high           | low    | 6      | namecheap   |
+| anybudy.property | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
+| befull.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
+| cattax.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
+| comeby.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
+| dubstep.property | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
+| goleft.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
+| hanukah.property | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
+| ifthat.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
+| indate.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
+| kindof.property  | available | $161.98   | —             | medium         | low    | 7      | namecheap   |
+| quitea.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
+| redhot.property  | available | $161.98   | —             | high           | low    | 7      | namecheap   |
+| saveit.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is centered on one-word domains in the .property extension. The set ranges from direct real-estate terms to broader dictionary words such as rain.property, complex.property, and adventure.property. That creates a wide spread in commercial relevance. For founders, the best candidates are words that feel natural beside “property” and are easy to say, spell, and remember. For investors, the key question is narrower: whether the word has clear end-user fit inside real estate, land, management, or listings. The median ask is 149.32, which keeps entry pricing accessible, but .property is still a niche extension, so keyword fit matters more than volume alone.
+This selection covers 11,237 one-word and short-phrase names on the .property TLD, including examples like popup.property, weddingcake.property and useit.property. Themes range from everyday actions and food to events and playful character names, giving buyers a wide pool of short, memorable options. With a median ask near $90, most names in this set are priced for quick comparison rather than premium negotiation. When evaluating these domains, weigh word clarity, spelling ease and thematic fit against asking price to identify the strongest candidates.
 
-- Prefer words that read naturally with .property
-- Check ask price against niche resale limits
-- Avoid awkward or negative terms like contraband
-- Review renewal cost before treating price as a deal
+- 11,237 one-word .property domains tracked, updated daily
+- Median asking price near $90 across the full selection
+- Themes span food, events, everyday words and characters
+- Short, clear names suited for niche or lifestyle brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
