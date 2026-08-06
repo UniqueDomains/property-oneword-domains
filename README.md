@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .property one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,237 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $90.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,237 domains · **Median ask:** $87.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/property`
 **Best for:** founders, investors, studios
 
@@ -66,11 +66,17 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | camo.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo    |
 | space.property   | resell    | —         | —             | high           | high   | 5      | Porkbun LLC |
+| xcii.property    | available | $19.98    | $161.98       | low            | low    | 4      | namecheap   |
+| xxxi.property    | available | $19.98    | $161.98       | low            | low    | 4      | namecheap   |
+| aone.property    | available | $19.98    | $161.98       | low            | low    | 5      | namecheap   |
+| lxxii.property   | available | $19.98    | $161.98       | low            | low    | 5      | namecheap   |
 | orso.property    | available | $59.99    | $114.99       | medium         | low    | 5      | namesilo    |
 | asyet.property   | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo    |
 | ifnot.property   | available | $161.98   | —             | medium         | low    | 6      | namecheap   |
+| lxviii.property  | available | $19.98    | $161.98       | low            | low    | 6      | namecheap   |
 | nuthin.property  | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo    |
 | tvset.property   | available | $161.98   | —             | high           | low    | 6      | namecheap   |
+| achaian.property | available | $19.98    | $161.98       | low            | low    | 7      | namecheap   |
 | anybudy.property | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
 | befull.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
 | cattax.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
@@ -78,12 +84,6 @@ print(df.head())
 | dubstep.property | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
 | goleft.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
 | hanukah.property | available | $59.99    | $114.99       | high           | low    | 7      | namesilo    |
-| ifthat.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
-| indate.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
-| kindof.property  | available | $161.98   | —             | medium         | low    | 7      | namecheap   |
-| quitea.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
-| redhot.property  | available | $161.98   | —             | high           | low    | 7      | namecheap   |
-| saveit.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
