@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .property one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 13,309 domains · **Median ask:** $58.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/property`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| period.property  | available | —         | —             | high           | low    | 6      | —         |
-| ahuh.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
-| camo.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
-| lxii.property    | available | $19.98    | $161.98       | low            | low    | 4      | namecheap |
-| xcii.property    | available | $19.98    | $161.98       | low            | low    | 4      | namecheap |
-| xxxi.property    | available | $19.98    | $161.98       | low            | low    | 4      | namecheap |
-| aone.property    | available | $19.98    | $161.98       | low            | low    | 5      | namecheap |
-| lxxii.property   | available | $19.98    | $161.98       | low            | low    | 5      | namecheap |
-| orso.property    | available | $19.98    | $161.98       | low            | low    | 5      | namecheap |
-| asyet.property   | available | $19.98    | $161.98       | low            | low    | 6      | namecheap |
-| ifnot.property   | available | $161.98   | —             | medium         | low    | 6      | namecheap |
-| lxviii.property  | available | $19.98    | $161.98       | low            | low    | 6      | namecheap |
-| nuthin.property  | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo  |
-| tvset.property   | available | $161.98   | —             | high           | low    | 6      | namecheap |
-| achaian.property | available | $19.98    | $161.98       | low            | low    | 7      | namecheap |
-| anybudy.property | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo  |
-| befull.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
-| cattax.property  | available | $59.99    | $114.99       | medium         | low    | 7      | namesilo  |
-| comeby.property  | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
-| dubstep.property | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ahuh.property      | available | $59.99    | $114.99       | medium         | low    | 4      | namesilo  |
+| camo.property      | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
+| leia.property      | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
+| lxii.property      | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
+| lxvi.property      | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
+| xcii.property      | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
+| xcvi.property      | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
+| xxxi.property      | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
+| kinda.property     | available | $161.98   | —             | high           | low    | 5      | namecheap |
+| nuthin.property    | available | $59.99    | $114.99       | medium         | low    | 6      | namesilo  |
+| xxxiii.property    | available | $19.98    | $161.98       | medium         | low    | 6      | namecheap |
+| abenaki.property   | available | $19.98    | $161.98       | medium         | low    | 7      | namecheap |
+| dubstep.property   | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
+| hanukah.property   | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
+| indate.property    | available | $59.99    | $114.99       | high           | low    | 7      | namesilo  |
+| booklist.property  | available | $59.99    | $114.99       | high           | low    | 8      | namesilo  |
+| hannukah.property  | available | $59.99    | $114.99       | medium         | low    | 8      | namesilo  |
+| passcode.property  | available | $59.99    | $114.99       | high           | low    | 8      | namesilo  |
+| evrything.property | available | $59.99    | $114.99       | medium         | low    | 9      | namesilo  |
+| playdate.property  | available | $59.99    | $114.99       | high           | low    | 9      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PROPERTY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
