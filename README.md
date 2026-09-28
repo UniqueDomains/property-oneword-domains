@@ -1,10 +1,10 @@
-# Available .PROPERTY One-Word Domains (5,351)
+# Available .PROPERTY One-Word Domains (5,313)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C351%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C313%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .property one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,351 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **5,313 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 5,351 domains · **Median ask:** $48.92 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 5,313 domains · **Median ask:** $48.44 · **High-demand under $2,500:** 1
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/property`
@@ -69,6 +69,7 @@ print(df.head())
 | asin.property    | available | $59.99    | $114.99       | medium         | low    | 4      | namesilo  |
 | biro.property    | available | $59.99    | $114.99       | medium         | low    | 4      | namesilo  |
 | bmdo.property    | available | $59.99    | $114.99       | medium         | low    | 4      | namesilo  |
+| dans.property    | available | $17.80    | $103.70       | low            | low    | 4      | spaceship |
 | dslr.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
 | isbn.property    | available | $59.99    | $114.99       | high           | low    | 4      | namesilo  |
 | liii.property    | available | $19.98    | $161.98       | medium         | low    | 4      | namecheap |
@@ -83,7 +84,6 @@ print(df.head())
 | yall.property    | available | $59.99    | $114.99       | medium         | low    | 4      | namesilo  |
 | adige.property   | available | $59.99    | $114.99       | medium         | low    | 5      | namesilo  |
 | annon.property   | available | $59.99    | $114.99       | medium         | low    | 5      | namesilo  |
-| arava.property   | available | $59.99    | $114.99       | medium         | low    | 5      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 5,351 live domains                         |
+| 1,000-row public sample | 5,313 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
